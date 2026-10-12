@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://samarthnaik.lovable.app">
+  <a href="https://sammybrimzz.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/sammybrimzz">
