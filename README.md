@@ -43,14 +43,11 @@ My current focus is improving my programming fundamentals while turning ideas in
 
 
 ### Community & Involvement
-
-```text
+---
 
 - **Core Technical Team** — AWS SBG, PES University
 - Exploring cloud technologies, software development, and AI.
 - Building projects to learn by doing.
-
-```
 
 # 🚀 Featured Projects
 
